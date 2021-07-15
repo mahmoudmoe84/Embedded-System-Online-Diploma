@@ -1,0 +1,4 @@
+HW5 EX6
+
+Size of Union is 32
+Size of Structure is 40
